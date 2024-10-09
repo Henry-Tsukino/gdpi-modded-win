@@ -18,3 +18,6 @@ discordpartygames.com
 discord-activities.com
 discordactivities.com
 discordsays.com
+googlevideo.com
+youtubei.googleapis.com
+i.ytimg.com
